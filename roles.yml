@@ -1,0 +1,4 @@
+# Railway healthcheck role: GET / only. Everything else answers 401 without credentials.
+railway_healthcheck:
+  cluster:
+    - "cluster:monitor/main"
