@@ -1,5 +1,9 @@
 # elasticsearch-railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/elasticsearch-or-just-updated-v9-search-?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [Elasticsearch template](https://railway.com/deploy/elasticsearch-or-just-updated-v9-search-?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 Elasticsearch 9.5.3, single node, wrapped so it deploys cleanly on [Railway](https://railway.com)
 with authentication on from the first boot and its data on a Railway volume.
 
